@@ -18,12 +18,13 @@
         <nav class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#">Iteem IE2</a>
+                    <a class="navbar-brand" href="index.html">Iteem IE2</a>
                 </div>
                 <div id="navbar" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.php">Exercice 1</a></li>
-                        <li class="active"><a href="exo2.php">Exercice 2</a></li>
+                        <li><a href="index.html">Accueil</a></li>
+                        <li class="active"><a href="exo1.php">Exercice 1</a></li>
+                        <li><a href="exo2.php">Exercice 2</a></li>
                     </ul>
                 </div>
             </div>
@@ -57,7 +58,7 @@
                     echo'</div>';
                 } ?>
 
-                <form method="GET" action="index.php" class="form" id="form1">
+                <form method="GET" action="exo1.php" class="form" id="form1">
                     <div class="form-group">
                         <label for="nom">Nom</label>
                         <input type="text" class="form-control" name="nom">
