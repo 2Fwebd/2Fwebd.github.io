@@ -38,11 +38,11 @@
       <file leaf-file-name="exo2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exo2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1336806">
-              <caret line="93" column="37" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.5833333">
+              <caret line="105" column="23" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
               <folding>
-                <marker date="1452851675000" expanded="true" signature="1898:2483" placeholder="..." />
-                <marker date="1452851675000" expanded="true" signature="1953:2483" placeholder="..." />
+                <marker date="1452852160000" expanded="true" signature="1898:2483" placeholder="..." />
+                <marker date="1452852160000" expanded="true" signature="1953:2483" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -302,11 +302,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exo2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1336806">
-          <caret line="93" column="37" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.5833333">
+          <caret line="105" column="23" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
           <folding>
-            <marker date="1452851675000" expanded="true" signature="1898:2483" placeholder="..." />
-            <marker date="1452851675000" expanded="true" signature="1953:2483" placeholder="..." />
+            <marker date="1452852160000" expanded="true" signature="1898:2483" placeholder="..." />
+            <marker date="1452852160000" expanded="true" signature="1953:2483" placeholder="..." />
           </folding>
         </state>
       </provider>
